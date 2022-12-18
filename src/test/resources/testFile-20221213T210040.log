@@ -1,0 +1,42 @@
+21:00:40 [main] deleteAllRecordings 256 INFO  TestBase - Cleaned Records folder
+21:00:40 [main] prepare 57 INFO  TestBase - Running test system property browser set to chrome
+21:00:55 [main] prepare 90 INFO  TestBase - Starting AllAuthorization
+21:00:55 [main] ourTestNegativeVideo 47 INFO  TestBase - Starting negative authorization (method: managerAuthorization)
+21:00:56 [main] startRecording 224 INFO  TestBase - Starting screen recording
+21:01:05 [main] stopRecoding 239 INFO  TestBase - Stopping screen recording
+21:01:18 [main] afterMLogout 127 INFO  TestBase - no such element: Unable to locate element: {"method":"css selector","selector":"#navbarDropdown"}
+  (Session info: chrome=108.0.5359.98)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c84fe286b20f510e127f373aaa97353c, findElement {using=id, value=navbarDropdown}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.98, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: /var/folders/dg/rnpx53z9275...}, goog:chromeOptions: {debuggerAddress: localhost:59584}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59584/devtoo..., se:cdpVersion: 108.0.5359.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c84fe286b20f510e127f373aaa97353c
+21:01:18 [main] afterMLogout 130 INFO  TestBase - Running after method: logging current user out
+21:01:18 [main] ourTestNegativeVideo 47 INFO  TestBase - Starting negative authorization (method: managerAuthorization)
+21:01:18 [main] startRecording 224 INFO  TestBase - Starting screen recording
+21:01:26 [main] stopRecoding 239 INFO  TestBase - Stopping screen recording
+21:01:37 [main] afterMLogout 127 INFO  TestBase - no such element: Unable to locate element: {"method":"css selector","selector":"#navbarDropdown"}
+  (Session info: chrome=108.0.5359.98)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c84fe286b20f510e127f373aaa97353c, findElement {using=id, value=navbarDropdown}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.98, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: /var/folders/dg/rnpx53z9275...}, goog:chromeOptions: {debuggerAddress: localhost:59584}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59584/devtoo..., se:cdpVersion: 108.0.5359.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c84fe286b20f510e127f373aaa97353c
+21:01:37 [main] afterMLogout 130 INFO  TestBase - Running after method: logging current user out
+21:01:37 [main] ourTestNegativeVideo 47 INFO  TestBase - Starting negative authorization (method: managerAuthorization)
+21:01:37 [main] startRecording 224 INFO  TestBase - Starting screen recording
+21:01:45 [main] stopRecoding 239 INFO  TestBase - Stopping screen recording
+21:02:11 [main] afterMLogout 127 INFO  TestBase - no such element: Unable to locate element: {"method":"css selector","selector":"#navbarDropdown"}
+  (Session info: chrome=108.0.5359.98)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c84fe286b20f510e127f373aaa97353c, findElement {using=id, value=navbarDropdown}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.98, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: /var/folders/dg/rnpx53z9275...}, goog:chromeOptions: {debuggerAddress: localhost:59584}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59584/devtoo..., se:cdpVersion: 108.0.5359.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c84fe286b20f510e127f373aaa97353c
+21:02:11 [main] afterMLogout 130 INFO  TestBase - Running after method: logging current user out
